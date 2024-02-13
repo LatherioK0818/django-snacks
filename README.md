@@ -10,25 +10,28 @@ In this project, we explore the fundamentals of Django by building a simple webs
 
 ### Links and Resources
 
-- GitHub Repo: [django-snacks](https://github.com/LatherioK0818/django-snacks.git) (replace with your actual GitHub repo link)
+- GitHub Repo: [django-snacks](https://github.com/LatherioK0818/django-snacks.git)
 
 ### Setup
+
 #### Dependencies
+
 - Django
 - TailwindCSS (via django-tailwind)
 - Flowbite
 
 #### `.env` requirements
-- `SECRET_KEY`: Your Django secret key
+
+- `SECRET_KEY`: 
 - `DEBUG`: Set to `True` for development, `False` for production
 
 #### Running the Application
 
 1. Clone the repository:
 
-   ```
+```
    git clone https://github.com/LatherioK0818/django-snacks.git
-   ```
+ ```
 
 2. Navigate to the project directory:
 
